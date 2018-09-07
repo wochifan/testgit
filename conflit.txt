@@ -1,2 +1,2 @@
-conflit
-coucouCC
+<<<<<<< HEAD
+nflit
